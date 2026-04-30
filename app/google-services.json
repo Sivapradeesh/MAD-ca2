@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055935856415",
+    "project_id": "madca-2ef04",
+    "storage_bucket": "madca-2ef04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055935856415:android:6dc07447da0f764a9bfa2a",
+        "android_client_info": {
+          "package_name": "com.example.madlabca2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8aGdxO9BTkEwKa5EK1GKrAARh6BEeg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
